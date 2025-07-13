@@ -2,6 +2,9 @@
 
 A beautiful, modern weather application built with HTML, CSS, and JavaScript. Features a stunning glassmorphism design with a multi-column layout that displays all weather information on one screen without scrolling.
 
+<img width="1512" height="831" alt="Screenshot 2025-07-13 at 8 18 10 PM" src="https://github.com/user-attachments/assets/e334631e-4967-4abf-8024-cebe0b736b6d" />
+
+
 ## ✨ Features
 
 ### 🎨 **Modern UI/UX**
